@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QcMaster", "QcMaster\QcMaster.csproj", "{DFA0CC94-13E4-4DA4-9776-0C9807F5BA9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA0CC94-13E4-4DA4-9776-0C9807F5BA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA0CC94-13E4-4DA4-9776-0C9807F5BA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA0CC94-13E4-4DA4-9776-0C9807F5BA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA0CC94-13E4-4DA4-9776-0C9807F5BA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6576011D-49F9-497A-AAF1-2428564B1959}
+	EndGlobalSection
+EndGlobal
